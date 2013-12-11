@@ -13,5 +13,9 @@ Test line
 Test line
  and another
  
- > and this is
- > doing what
+> and this is  
+> doing what with two spaces at end  
+> and another  
+> and another  
+
+
